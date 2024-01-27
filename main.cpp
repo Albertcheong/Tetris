@@ -33,8 +33,8 @@ class Application
 
 	Vector2 position;
 
-	int speed			= 20;
-	int speedCount		=  0;
+	int speed	    = 20;
+	int speedCount      =  0;
 	int currentPiece    =  0;
 	int currentRotation =  0;
 	int pieceCount      =  0;
